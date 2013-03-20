@@ -1,0 +1,3 @@
+This file is released under the Creative Commons 3.0 license. 
+
+Please refer to http://creativecommons.org/licenses/by/3.0/us/ and attribute the data to Azavea Inc.
