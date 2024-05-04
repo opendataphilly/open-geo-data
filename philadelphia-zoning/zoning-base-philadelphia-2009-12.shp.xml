@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>City Planning Commission (PCPC) Department - GIS Division</origin>
+				<pubdate>5/10/2000</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title Sync="TRUE">Philadelphiazoning201001</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Philadelphia , PA</pubplace>
+					<publish>City Planning Commission (PCPC) Department - GIS Division</publish>
+				</pubinfo>
+				<onlink Sync="TRUE">\\PC-36\D\philly2010\shapefiles_PASDA2010\Philadelphiazoning201001.shp</onlink>
+				<ftname Sync="TRUE">Philadelphiazoning201001</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>City zoning districts and classifications with annotation. Continually updated </abstract>
+			<purpose>The areal extent of the various zoning districts is defined by this coverage.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20000510</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-75.283955</westbc>
+				<eastbc Sync="TRUE">-74.954103</eastbc>
+				<northbc Sync="TRUE">40.143718</northbc>
+				<southbc Sync="TRUE">39.865001</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">2660596.805014</leftbc><rightbc Sync="TRUE">2750095.750054</rightbc><bottombc Sync="TRUE">206003.800184</bottombc><topbc Sync="TRUE">304914.374019</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>City of Philadelphia</themekt>
+				<themekey>zoning</themekey>
+				<themekey>residential</themekey>
+				<themekey>commercial</themekey>
+				<themekey>office commercial</themekey>
+				<themekey>neighborhood shopping</themekey>
+				<themekey>neighborhood shopping center district</themekey>
+				<themekey>area shopping</themekey>
+				<themekey>area shopping center district</themekey>
+				<themekey>limited industrial</themekey>
+				<themekey>general industrial</themekey>
+				<themekey>least restricted industrial</themekey>
+				<themekey>port industrial</themekey>
+				<themekey>food distribution center district</themekey>
+				<themekey>sports stadium</themekey>
+				<themekey>institutional development district</themekey>
+				<themekey>trailer park district</themekey>
+				<themekey>recreational</themekey>
+				<themekey>water features</themekey>
+				<themekey>shopping centers</themekey>
+			</theme>
+			<place>
+				<placekt>City of Philadelphia</placekt>
+				<placekey>Philadelphia</placekey>
+			</place>
+		</keywords>
+		<accconst>City of Philadelphia employees only</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Vic Davis</cntper>
+					<cntorg>Philadelphia City Planning Commission - GIS Division</cntorg>
+				</cntperp>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1515 Arch Street - 13th Floor</address>
+					<city>Philadelphia</city>
+					<state>PA</state>
+					<postal>19102</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>215-683-4623</cntvoice>
+				<cntfax>215-683-4630</cntfax>
+				<cntemail>victor.davis@phila.gov</cntemail>
+				<hours>8:30 AM - 4:30 PM</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>PCPC - Graphics/GIS Division</datacred>
+		<secinfo>
+			<secsys>No security considerations</secsys>
+			<secclass>Unclassified</secclass>
+			<sechandl>N/A</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
+		<crossref>
+			<citeinfo>
+				<origin>City Planning Commission (PCPC) Department - GIS Division</origin>
+				<pubdate>Unknown</pubdate>
+				<pubtime>Unknown</pubtime>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Philadelphia , PA</pubplace>
+					<publish>City Planning Commission (PCPC) Department - GIS Division</publish>
+				</pubinfo>
+				<onlink>none</onlink>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>None completed.</attraccr>
+		</attracc>
+		<logic>None completed.</logic>
+		<complete>Citywide</complete>
+		<lineage>
+			<srcinfo>
+				<srccitea>Hard-copy mylars</srccitea>
+			</srcinfo>
+			<procstep>
+				<procdesc>Hard-copy zoning maps were created in the early 1960's.  In 1993, ESRI automated these maps.  Upon receipt of these data sets, PCPC updated them to current status.  Subsequently, the data set has been updated as changes have occurred.</procdesc>
+				<procdate>Unknown</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Vic Davis</cntper>
+							<cntorg>Philadelphia City Planning Commission - GIS Division</cntorg>
+						</cntperp>
+						<cntpos>GIS Specialist</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>1515 Arch Street - 13th Floor</address>
+							<city>Philadelphia</city>
+							<state>PA</state>
+							<postal>19102</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>215-683-4623</cntvoice>
+						<cntfax>215-683-4630</cntfax>
+						<cntemail>vic.davis@phila.gov</cntemail>
+						<hours>8:00 AM - 4:30 PM</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\TEMP\xml169F.tmp</srcused><date Sync="TRUE">20031008</date><time Sync="TRUE">14560200</time></procstep></lineage>
+		<cloud>0</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="Philadelphiazoning201001">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">29322</ptvctcnt></sdtsterm>
+			<esriterm Name="Philadelphiazoning201001"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">29322</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">39.933333</stdparll><stdparll Sync="TRUE">40.966667</stdparll><longcm Sync="TRUE">-77.750000</longcm><latprjo Sync="TRUE">39.333333</latprjo><feast Sync="TRUE">1968500.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_StatePlane_Pennsylvania_South_FIPS_3702_Feet</projcsn></cordsysn></horizsys>
+		<vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">1.000000</altres></altsys></vertdef></spref>
+	<eainfo>
+		<detailed Name="Philadelphiazoning201001">
+			<enttyp>
+				<enttypl Sync="TRUE">Philadelphiazoning201001</enttypl>
+				<enttypd>Polygon Attribute Table</enttypd>
+				<enttypds>Philadelphia City Planning Commission (PCPC) Department - GIS Division</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">29322</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl Sync="TRUE">CODE</attrlabl>
+				<attalias Sync="TRUE">CODE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">SHAPE</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">CATEGORY</attrlabl><attalias Sync="TRUE">CATEGORY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">SHAPE_AREA</attrlabl><attalias Sync="TRUE">SHAPE_AREA</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">SHAPE_LEN</attrlabl><attalias Sync="TRUE">SHAPE_LEN</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth></attr></detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>zoning.aat</enttypl>
+				<enttypd>Arc Attributed Table</enttypd>
+				<enttypds>Philadelphia City Planning Commission (PCPC) Department - GIS Division</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>wtrln</attrlabl>
+				<attrdef>Linework, which is not district boundaries, added to the coverage for cartographic purposes (I.e. shorelines, travelways, etc. . .).</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Zoning district boundaries.</edomvd>
+					</edom>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Supporting linework.</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr/><attr><atnumdec/></attr><attr/><attr><atnumdec/></attr><attr><atnumdec Sync="TRUE">11</atnumdec></attr></detailed>
+		<overview>
+			<eaover>Zoning includes a polygon and an arc attribute table.</eaover>
+			<eadetcit>The .aat includes the 'usual' geographic attributes, as well as a code for certain line work.  The .pat includes zone codes, as well as the 'usual' geographic attributes.</eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>City of Philadelphia - Non-Commercial Data Distribution Committee</cntorg>
+				</cntorgp>
+			</cntinfo>
+		</distrib>
+		<distliab>This dataset contains errors that are an artifact of the interpretation, source material and conversion process. The data and documentation are provided "as is." The City of Philadelphia (CITY) makes no warranty or representation, either express or implied, with respect to the data or accompanying documentation, including its quality, performance or accuracy. The CITY will not be liable for any direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use the data or any accompanying documentation. The CITY is working to correct errors found in its datasets. Users discovering errors or making corrections to the data are requested to report such errors to the CITY at 215-686-5031 or e-mail to marion.storey@phila.gov</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile/ArcInfo Export File</formname>
+					<formvern>2D</formvern>
+					<filedec>PKzipped using WinZip by Nico Mak computing.</filedec>
+					<transize Sync="TRUE">21.631</transize><dssize Sync="TRUE">21.631</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<accinstr>Will e-mail or FTP to a City agency upon request.</accinstr>
+						<oncomp>Windows OS</oncomp>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>none</fees>
+			<ordering>Please contact the Paul Reisner at 215-686-5071 for access to this data set.</ordering>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>unknown</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>City of Philadelphia - GIS Working Group</cntorg>
+				</cntorgp>
+			</cntinfo>
+		</distrib>
+		<distliab>This dataset contains errors that are an artifact of the interpretation, source material and conversion process. The data and documentation are provided "as is." The City of Philadelphia (CITY) makes no warranty or representation, either express or implied, with respect to the data or accompanying documentation, including its quality, performance or accuracy. The CITY will not be liable for any direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use the data or any accompanying documentation. The CITY is working to correct errors found in its datasets. Users discovering errors or making corrections to the data are requested to report such errors to the CITY at 215-686-XXXX</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo><transize Sync="TRUE">21.631</transize><dssize Sync="TRUE">21.631</dssize></digtinfo>
+			</digform>
+			<fees>N/A</fees>
+			<ordering>N/A</ordering>
+			<turnarnd>N/A</turnarnd>
+		</stdorder>
+		<stdorder>
+			<nondig>N/A</nondig>
+			<fees>N/A</fees>
+			<ordering>N/A</ordering>
+			<turnarnd>N/A</turnarnd>
+			<digform><digtinfo><transize Sync="TRUE">21.631</transize><dssize Sync="TRUE">21.631</dssize></digtinfo></digform></stdorder>
+		<custom>THE CITY OF PHILADELPHIA DOES NOT CURRENTLY HAVE A COMMERCIAL DISTRIBUTION POLICY.</custom>
+		<techpreq>Must have a GIS capable of reading ESRI spatial data formats.</techpreq>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>Unknown</caldate>
+					<time>Unknown</time>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20100105</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Vic Davis</cntper>
+					<cntorg>Philadelphia City Planning Commission - GIS Division</cntorg>
+				</cntperp>
+				<cntpos>GIS Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1515 Arch Street - 13th Floor</address>
+					<city>Philadelphia</city>
+					<state>PA</state>
+					<postal>19102</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>215-683-4623</cntvoice>
+				<cntfax>215-683-4630</cntfax>
+				<cntemail>victor.davis@phila.gov</cntemail>
+				<hours>8:00 AM - 4:30 PM</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>City of Philadelphia employees</metac>
+		<metuc>City of Philadelphia use only.</metuc>
+		<metsi>
+			<metscs>No security considerations</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>N/A</metshd>
+		</metsi>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{8632E232-3D34-417F-852A-3F69957105A9}</MetaID><CreaDate>20031008</CreaDate><CreaTime>14560200</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20100105</SyncDate><SyncTime>16010000</SyncTime><ModDate>20100105</ModDate><ModTime>16010800</ModTime><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20050418" Time="114524">CopyFeatures "Database Connections\Mercator_Planning.sde\PLANNING.Zoning" "Database Connections\GIS-Philippine_planning.sde\GIS_PLANNING.PLANNING_Zoning" # 0 0 0</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20091216" Time="165013">FeatureClassToFeatureClass "Database Connections\geodb2_gis_gsg.sde\GIS_PLANNING.Zoning" "C:\Documents and Settings\Yimei Wang\My Documents\REQUESTS\Data\PASDA\Jan. 2010" "Philadelphia zoning.shp" # "CODE 'CODE' true true false 5 Text 0 0 ,First,#,Database Connections\geodb2_gis_gsg.sde\GIS_PLANNING.Zoning,CODE,-1,-1;CATEGORY 'CATEGORY' true true false 10 Text 0 0 ,First,#,Database Connections\geodb2_gis_gsg.sde\GIS_PLANNING.Zoning,CATEGORY,-1,-1;SHAPE_AREA 'SHAPE_AREA' false false true 0 Double 0 0 ,First,#,Database Connections\geodb2_gis_gsg.sde\GIS_PLANNING.Zoning,SHAPE.AREA,-1,-1;SHAPE_LEN 'SHAPE_LEN' false false true 0 Double 0 0 ,First,#,Database Connections\geodb2_gis_gsg.sde\GIS_PLANNING.Zoning,SHAPE.LEN,-1,-1" # "C:\Documents and Settings\Yimei Wang\My Documents\REQUESTS\Data\PASDA\Jan. 2010\Philadelphia zoning.shp"</Process></lineage></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">Philadelphiazoning201001</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">2660596.805014</westBL><eastBL Sync="TRUE">2750095.750054</eastBL><northBL Sync="TRUE">304914.374019</northBL><southBL Sync="TRUE">206003.800184</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-75.283955</westBL><eastBL Sync="TRUE">-74.954103</eastBL><northBL Sync="TRUE">40.143718</northBL><southBL Sync="TRUE">39.865001</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\PC-36\D\philly2010\shapefiles_PASDA2010\Philadelphiazoning201001.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">21.631</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_StatePlane_Pennsylvania_South_FIPS_3702_Feet</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="Philadelphiazoning201001"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">29322</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20100105</mdDateSt><distinfo><distrib><cntinfo><cntorgp><cntorg>Pennsylvania Spatial Data Access (PASDA)</cntorg></cntorgp><cntaddr><addrtype>mailing address</addrtype><address>115 Land and Water building</address><city>University Park</city><state>Pennsylvania</state><postal>16802</postal><country>United States</country></cntaddr><cntvoice>(814) 865 - 8792</cntvoice><cntemail>pasda@psu.edu</cntemail></cntinfo></distrib><distliab>The USER shall indemnify, save harmless, and, if requested, defend those parties involved with the development and distribution of this data, their officers, agents, and employees from and against any suits, claims, or actions for injury, death, or property damage arising out of the use of or any defect in the FILES or any accompanying documentation. Those parties involved with the development and distribution excluded any and all implied warranties, including warranties or merchantability and fitness for a particular purpose and makes no warranty or representation, either express or implied, with respect to the FILES or accompanying documentation, including its quality, performance, merchantability, or fitness for a particular purpose. The FILES and documentation are provided "as is" and the USER assumes the entire risk as to its quality and performance. Those parties involved with the development and distribution of this data will not be liable for any direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use the FILES or any accompanying documentation.</distliab></distinfo></metadata>
