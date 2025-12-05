@@ -7,5 +7,7 @@ This includes:
 
  - Philadelphia neighborhoods
  - Philadelphia historic wards and divisions
+ - Philadelphia historic zoning
+ - Pennypack Trails
 
 In the future, archived versions of datasets may also be added. 
